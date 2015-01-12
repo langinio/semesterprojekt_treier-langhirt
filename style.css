@@ -1,0 +1,73 @@
+body{
+	background-color: black;
+}
+html, body, h1, h2, p {
+	margin: 0;
+	padding: 0;
+}
+h1 {
+	font-size: 100px;
+	color: white;
+	font: bold;
+	padding:0;
+}
+h2 {
+	font-size: 10px;
+	color: black;
+	font: bold;
+	padding:0;
+}
+
+.textfeld1 {
+	width: 280px;
+	height: 430px;
+	background-color: #FFF;
+	box-shadow: 5px 5px 5px rgba(0,0,0,0.7);
+	margin: 160px auto 0px 40px;
+	padding: 20px;
+}
+
+.textfeld2 {
+	width: 280px;
+	height: 430px;
+	background-color: #FFF;
+	box-shadow: 5px 5px 5px rgba(0,0,0,0.7);
+	margin: -470px auto 0px 380px;
+	padding: 20px;
+}
+
+.textfeld3 {
+	width: 280px;
+	height: 430px;
+	background-color: #FFF;
+	box-shadow: 5px 5px 5px rgba(0,0,0,0.7);
+	margin: -470px 10px 0px 730px;
+	padding: 20px;
+}
+
+.krieg:link    { 	color:#BABABA; background-color:transparent; }
+.krieg:visited { 	color:#BABABA; background-color:transparent; }
+.krieg:hover   { 	color:#BABABA; background-color:#BABABA; }
+.krieg:active  { 	color:#BABABA; background-color:#BABABA; }
+
+
+.front:link    { 	color:#BABABA; background-color:transparent; }
+.front:visited { 	color:#BABABA; background-color:transparent; }
+.front:hover   { 	color:#BABABA; background-color:#BABABA; }
+.front:active  { 	color:#BABABA; background-color:#BABABA; }
+
+.frauen:link    { 	color:#BABABA; background-color:transparent; }
+.frauen:visited { 	color:#BABABA; background-color:transparent; }
+.frauen:hover   { 	color:#BABABA; background-color:#BABABA; }
+.frauen:active  { 	color:#BABABA; background-color:#BABABA; }
+
+.krieg{		margin: 120px auto 0px auto;
+	
+}
+.front{		margin: -40px auto 0px auto;
+	
+}
+.frauen{	margin: -42px auto 0px auto;
+	
+}
+
